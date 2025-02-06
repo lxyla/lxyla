@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Layla, an AI student passionate about the intersection
 I am committed to **understanding the ethical and societal impact of AI**, with a long-term goal of contributing to **policy and research on AI security**.  
 
 💡 **Let's connect, collaborate, and innovate together!** 🚀  
-🔗 Follow me on [GitHub](https://github.com/yourusername)  
+🔗 Follow me on [GitHub](https://github.com/lxyla)  
 
 🌍✨ *Building for a better future, one project at a time.*  
 
