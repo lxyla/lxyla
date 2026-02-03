@@ -10,8 +10,6 @@ Welcome to my GitHub! I'm Layla, an AI student passionate about the intersection
 - 🔢 **Algorithmic Problem-Solving** – Practicing LeetCode challenges and working through CS50x  
 - 🌍 **AI & Global Security** – Researching the ethical implications of AI in warfare and geopolitics  
 
-I am committed to **understanding the ethical and societal impact of AI**, with a long-term goal of contributing to **policy and research on AI security**.  
-
 💡 **Let's connect, collaborate, and innovate together!** 🚀  
 🔗 Follow me on [GitHub](https://github.com/lxyla)  
 
